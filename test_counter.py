@@ -90,4 +90,4 @@ def test_api_structure():
         assert "value" in data or "error" in data, f"Некорректный JSON в ответе: {data}"
 
 if __name__ == "__main__":
-    pytest.main([__file__, "-v"])
+    pytest.main([__file__, "-v"])# при -v каждый выполняемый тест будет выводиться в отдельной строке
