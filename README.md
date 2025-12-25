@@ -11,4 +11,5 @@
 ## localhost:80
 <img width="1846" height="534" alt="image" src="https://github.com/user-attachments/assets/40a38ce5-cc0d-40d3-ae5b-4f2dc1006e9e" />
 
-
+## Проведение тестирования
+<img width="612" height="151" alt="image" src="https://github.com/user-attachments/assets/76c9001f-3059-448a-bb43-30e633227f57" />
